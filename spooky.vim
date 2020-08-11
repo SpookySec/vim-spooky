@@ -6,7 +6,7 @@ if exists('syntax on')
     syntax reset
 endif
 
-let g:colors_name='' " }}}
+let g:colors_name='spooky' " }}}
 
 let s:mred = '#ec224e' " red
 let s:dora = '#ec6c39' " dark orange
